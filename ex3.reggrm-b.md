@@ -1,9 +1,3 @@
-S -> bA
-A -> abaA
-A -> abaB
-B -> b
-B -> epsilon
-
 # Grammaire régulière
 
 LHS | | RHS
@@ -12,7 +6,7 @@ S  | -> | bA
 A  | -> | abaA
 A  | -> | abaB
 B  | -> | b
-B  | -> | epsilon
+B  | -> | ε
 
 ## Entrées acceptées
 Entrée         | Résultat
@@ -35,16 +29,3 @@ babababa       | Reject
 ## Description mathématique & expression régulière
 L(G) = { b (aba)^n b^m | n>,1, m<=1}
 ERg = b(aba)*(b|λ)
-
-
-/**************************/
-
-S -> aaS
-S -> abaA
-S -> bA
-S -> abbaB
-A -> aaA
-A -> abaB
-A -> bB
-B -> aaB
-B -> epsilon
