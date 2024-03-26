@@ -15,7 +15,8 @@ B  | -> | b
 B  | -> | epsilon
 
 ## Entrées acceptées
------------------|-----------------
+Entrée         | Résultat
+---------------|---------------
 babaaba        | Accept
 babaabab       | Accept
 baba           | Accept
@@ -23,23 +24,15 @@ babaabaabaaba  | Accept
 babab          | Accept
 
 ## Entrées rejetées
- | 
------------------|-----------------
-b            | Reject
-bb           | Reject
-abab         | Reject
-abaaba       | Reject
-babababa     | Reject
+Entrée         | Résultat
+---------------|-----------------
+b              | Reject
+bb             | Reject
+abab           | Reject
+abaaba         | Reject
+babababa       | Reject
 
-bb            -> Reject
-abab          -> Reject
-abaaba        -> Reject
-b             -> Reject
-babababa      -> Reject
-
-
-
-
+## Description mathématique & expression régulière
 L(G) = { b (aba)^n b^m | n>,1, m<=1}
 ERg = b(aba)*(b|λ)
 
