@@ -23,6 +23,7 @@ babaabaabaaba  | Accept
 babab          | Accept
 
 ## Entrées rejetées
+ | 
 -----------------|-----------------
 b            | Reject
 bb           | Reject
