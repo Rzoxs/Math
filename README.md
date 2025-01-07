@@ -92,4 +92,27 @@ DIFFERENCES ENTRE PRESENT PERFECT SIMPLE ET PRESENT PERFECT CONTINUOUS
 - **wear** : wore : worn
 - **think** : thought : thought
 
-<img src="./anglais.svg" alt="English Tenses Diagram showing Past, Present and Future forms" width="100%" height="auto" />
+<img src="https://dl.rzoxs.be/uploads/public/677c65396de4b_Untitled diagram-2025-01-06-231755.svg" alt="English Tenses Diagram showing Past, Present and Future forms" width="100%" height="auto" />
+
+
+# UTILISATIONS :
+- Simple = action normale
+- Continuous = ajouter **ing**
+- Perfect = ajouter **have** + **participe passé**
+- Perfect Continuous = combiner les deux
+
+# SOME / ANY
+- **Some** : Affirmative
+- **Any** : Négative et Interrogative
+
+# COMPARATIF / SUPERLATIF
+- **Comparatif** : **more** + **adjectif** + **than**
+- **Superlatif** : **the most** + **adjectif**
+
+# CONDITIONNEL
+- **Would** + **base verbale** : Quelque chose qui pourrait se passer
+- **Would** + **have** + **past participle** : Quelque chose qui aurait pu se passer
+
+# MUCH / MANY
+- **Much** : Non comptable
+- **Many** : Comptable
