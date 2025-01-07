@@ -92,7 +92,7 @@ DIFFERENCES ENTRE PRESENT PERFECT SIMPLE ET PRESENT PERFECT CONTINUOUS
 - **wear** : wore : worn
 - **think** : thought : thought
 
-<img src="https://dl.rzoxs.be/uploads/public/677c65396de4b_Untitled diagram-2025-01-06-231755.svg" alt="English Tenses Diagram showing Past, Present and Future forms" width="100%" height="auto" />
+<img src="./anglais.svg" alt="English Tenses Diagram showing Past, Present and Future forms" width="100%" height="auto" />
 
 
 # UTILISATIONS :
